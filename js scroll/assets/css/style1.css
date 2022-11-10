@@ -1,0 +1,32 @@
+.width-height {
+    width: 100px;
+    height: 100px;
+    border: 20px solid red;
+}
+
+.width-height2 {
+    width: 100px;
+    height: 100px;
+    border: 50px solid red;
+}
+.scroll{
+    width: 200px;
+    height: 100px;
+    border: 3px solid green;
+    overflow: auto;
+}
+
+.scroll.text{
+    width: 400px;
+    height: 200px;
+}
+
+.scroll3{
+    font-weight: 900;
+    font-size: 50px;
+}
+.scroll4{
+    font-weight: 900;
+    font-size: 50px;
+    width: 3000px;
+}

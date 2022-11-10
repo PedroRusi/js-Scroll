@@ -1,0 +1,106 @@
+#elem6-1 {
+    width: 200px;
+    height: 150px;
+    border: 20px solid yellow;
+    padding: 20px;
+}
+#elem6-2 {
+    width: 400px;
+    height: 300px;
+    border: 2px solid greenyellow;
+    overflow: auto;
+}
+#elem6-3 {
+    width: 400px;
+    height: 300px;
+    border: 2px solid greenyellow;
+    overflow-x: auto;
+}
+#elem6-3 p {
+    width: 1000px;
+    max-height: 300px;
+}
+
+#elem6-4 {
+    width: 400px;
+    height: 300px;
+    border: 2px solid greenyellow;
+    overflow: auto;
+}
+
+
+#elem6-5 {
+    width: 400px;
+    height: 300px;
+    border: 2px solid greenyellow;
+    overflow: auto;
+}
+.body {
+    overflow: auto;
+}
+.body p {
+    font-size: 116px;
+    width: 200%;
+}
+.btns {
+    border: 2px solid black;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+}
+.btn__scroll {
+    top: 0;
+    left: 0;
+    margin-right: 40px;
+}
+#elem {
+    border: 1px solid slategray;
+    width: 100px;
+    height: 100px;
+}
+
+.width-height {
+    width: 100px;
+    height: 100px;
+    border: 20px solid red;
+}
+
+.width-height2 {
+    width: 100px;
+    height: 100px;
+    border: 50px solid red;
+}
+.scroll{
+    width: 200px;
+    height: 100px;
+    border: 3px solid green;
+    overflow: auto;
+}
+
+.scroll.text{
+    width: 400px;
+    height: 200px;
+}.width-height {
+    width: 100px;
+    height: 100px;
+    border: 20px solid red;
+}
+
+.width-height2 {
+    width: 100px;
+    height: 100px;
+    border: 50px solid red;
+}
+.scroll{
+    width: 200px;
+    height: 100px;
+    border: 3px solid green;
+    overflow: auto;
+}
+
+.scroll.text{
+    width: 400px;
+    height: 200px;
+}
